@@ -18,5 +18,3 @@ This website has its own database which allow the user to signup and login, then
 
 ![5](https://user-images.githubusercontent.com/32971941/64737076-567e5100-d4ec-11e9-95a8-d0ba2a8cdd6c.PNG)
 
-
-If you need the database of the website just send an email to "momoahmed1225@gmail.com"
